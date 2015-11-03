@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Orphan Asylum]]></title>
+        <description><![CDATA[The Orphan Asylum]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 03 Nov 2015 19:27:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://i0.wp.com/orphanasylum.club/wp-content/uploads/2015/07/Busy-Bee-rockers.jpg?resize=763%2C616">]]></description>
+            <link>undefined4ea33c2f-46ff-42ee-8e1f-86edb8aca754/index.html</link>
+            <guid isPermaLink="false">4ea33c2f-46ff-42ee-8e1f-86edb8aca754</guid>
+            <pubDate>Tue, 03 Nov 2015 19:27:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
