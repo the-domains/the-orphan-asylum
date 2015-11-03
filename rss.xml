@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Orphan Asylum]]></title>
         <description><![CDATA[The Orphan Asylum]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-orphan-asylum/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 Nov 2015 19:27:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 03 Nov 2015 19:37:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-orphan-asylum/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e381c79d-c7f8-45bd-973b-90934c54f4b2.jpg">]]></description>
+            <link>https://thegrid.ai/the-orphan-asylum/8bb69c3c-6615-48bb-b6f5-67e2cc703911/index.html</link>
+            <guid isPermaLink="false">8bb69c3c-6615-48bb-b6f5-67e2cc703911</guid>
+            <pubDate>Tue, 03 Nov 2015 19:36:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://i0.wp.com/orphanasylum.club/wp-content/uploads/2015/07/Busy-Bee-rockers.jpg?resize=763%2C616">]]></description>
-            <link>undefined4ea33c2f-46ff-42ee-8e1f-86edb8aca754/index.html</link>
+            <link>https://thegrid.ai/the-orphan-asylum/4ea33c2f-46ff-42ee-8e1f-86edb8aca754/index.html</link>
             <guid isPermaLink="false">4ea33c2f-46ff-42ee-8e1f-86edb8aca754</guid>
             <pubDate>Tue, 03 Nov 2015 19:27:00 GMT</pubDate>
         </item>
