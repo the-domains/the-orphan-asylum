@@ -1,0 +1,23 @@
+name: The Orphan Asylum
+favicon: null
+layout_spectrum: 0.4009638228453696
+typography_spectrum: 0.43071674881502986
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.38626088039018214
+  lightness: 0.9715530080720782
+  saturation: 0.37532137311063707
+  rhythmicContrast: 0.9026898283045739
+purpose: []
